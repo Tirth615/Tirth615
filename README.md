@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **shahtirth615@gmail.com**
 
+- Resume <a href="https://drive.google.com/file/d/16UjmKtBBEJs1wHjZrjs191sPhpKKpcG9/view?usp=sharing">Resume
+
 - ⚡ Fun fact **I am Funny🤪**
 
 <h3 align="left">Connect with me:</h3>
