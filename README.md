@@ -1,4 +1,6 @@
 ![Brown Wood Minimalist Profile LinkedIn Banner-2](https://github.com/user-attachments/assets/103a626f-80bd-4931-839f-ff6f4c68cd6c)
+
+
 <h1 align="center">Hi 👋, I'm Tirth Shah</h1>
 <h3 align="center">💻 MCA Student | iOS Developer | Exploring Swift & UIKit</h3>
 
@@ -14,6 +16,33 @@
 - 📄 Resume <a href="https://drive.google.com/file/d/16UjmKtBBEJs1wHjZrjs191sPhpKKpcG9/view?usp=sharing">Tirth Shah Ios Developer
 
 - ⚡ Fun fact **I am Funny🤪**
+
+Here are some of the projects I’ve worked on:
+
+- 🔐 [LoginForm-Xcode](https://github.com/Tirth615/LoginForm-Xcode-)  
+  *A Swift-based login form with API integration and error handling.*
+
+- 🛒 [ToDoList-SwiftUI](https://github.com/Tirth615/ToDoList-SwiftUI-)  
+  *A simple and elegant to-do list application built using SwiftUI.*
+
+- 🧮 [Calculator_IOS](https://github.com/Tirth615/Calculator_IOS)  
+  *An iOS calculator app with basic math operations and clean UI.*
+
+- 📊 [Crud_Operations](https://github.com/Tirth615/Crud_Operations)  
+  *A Python demonstrating Create, Read, Update, Delete operations.*
+
+- 🌐 [Django_project](https://github.com/Tirth615/Django_project)  
+  *A full-stack web project using Django, HTML/CSS, and MySQL.*
+
+- 🧾 [Login_Page](https://github.com/Tirth615/Login_Page)  
+  *Another version of a login system with refined structure and design.*
+  
+- 🎲 [Shut-the-box](https://github.com/Tirth615/Shut-the-box)  
+  *A digital version of the classic dice game "Shut the Box", built in Swift.*
+
+- 🗂️ [Swift-CoreData-CRUD](https://github.com/Tirth615/Swift-CoreData-CRUD)  
+  *A SwiftUI app demonstrating CRUD operations using Core Data.*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
