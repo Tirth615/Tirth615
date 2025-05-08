@@ -1,5 +1,7 @@
+![Brown Wood Minimalist Profile LinkedIn Banner-2](https://github.com/user-attachments/assets/103a626f-80bd-4931-839f-ff6f4c68cd6c)
 <h1 align="center">Hi 👋, I'm Tirth Shah</h1>
 <h3 align="center">💻 MCA Student | iOS Developer | Exploring Swift & UIKit</h3>
+
 
 
 
