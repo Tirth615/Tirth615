@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am Funny🤪**
 
-Here are some of the projects I’ve worked on:
+**Here are some of the projects I’ve worked on:**
 
 - 🔐 [LoginForm-Xcode](https://github.com/Tirth615/LoginForm-Xcode-)  
   *A Swift-based login form with API integration and error handling.*
