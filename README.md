@@ -58,4 +58,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirth615&show_icons=true&locale=en" alt="tirth615" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirth615&" alt="tirth615" /></p>
+
