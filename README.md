@@ -43,6 +43,12 @@
 - 🗂️ [Swift-CoreData-CRUD](https://github.com/Tirth615/Swift-CoreData-CRUD)  
   *A SwiftUI app demonstrating CRUD operations using Core Data.*
 
+- 🧾 [Income-Expense App](https://github.com/Tirth615/Income-Expense.git)  
+  *An iOS app for tracking your income and daily expenses, built using UIkit.*
+
+- 📆 [Habit Tracker App](https://github.com/Tirth615/Habit-Tracker-Using-StoryBoard.git)  
+  *Track daily habits, view streaks, and stay consistent using , built in UIKit and CoreData*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
