@@ -36,7 +36,7 @@
 | [Swift-CoreData-CRUD](https://github.com/Tirth615/Swift-CoreData-CRUD) | CRUD operations in SwiftUI using Core Data. | SwiftUI, Core Data |
 | [Income-Expense App](https://github.com/Tirth615/Income-Expense.git) | Track your income and expenses, built with UIKit. | Swift, UIKit |
 | [Habit Tracker App](https://github.com/Tirth615/Habit-Tracker-Using-StoryBoard.git) | Track habits and streaks with UIKit & CoreData. | UIKit, Core Data |
-| [MapKit-Demo](https://github.com/Tirth615/Map-kit-Using-UIKit.git) | Interactive app using Apple MapKit for displaying maps, annotations, and user location. | Swift, MapKit, UIKit |
+| [MapKit-Demo](https://github.com/Tirth615/Map-kit-Using-UIKit.git) | Interactive app using Apple MapKit for displaying maps, annotations, user location, and a search bar for places. | Swift, MapKit, UIKit |
 
 ---
 
