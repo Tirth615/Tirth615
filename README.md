@@ -13,6 +13,7 @@
 
 ## 👨‍💻 About Me
 
+- 🗨️ I’m currently working on a real-time Chat Live app using Firebase and UIKit.
 - ✅ I recently completed an exciting **E-Commerce Application**.
 - 🌱 Actively exploring **Swift** and **UIKit** to build robust iOS applications.
 - 💬 Ask me about iOS development, Swift, or building CRUD apps!
@@ -26,7 +27,9 @@
 
 | Project | Description | Tech Stack |
 | ------- | ----------- | ---------- |
+| [ChatLive-Xcode](https://github.com/Tirth615/ChatLive-Using-UIKit) | Chat Live is a real-time iOS chat application built with UIKit and Firebase, featuring user selection, one-to-one messaging, and dynamic message updates. | Swift, Xcode , FireBase |
 | [LoginForm-Xcode](https://github.com/Tirth615/LoginForm-Xcode-) | Swift-based login form with API integration and error handling. | Swift, Xcode |
+| [MapKit](https://github.com/Tirth615/Map-Kit-Using-UIKit) | An iOS app using UIKit and MapKit to display maps, drop pins, search locations, and handle user interactions. A simple demo of MapKit integration in UIKit. | Swift, Xcode |
 | [ToDoList-SwiftUI](https://github.com/Tirth615/ToDoList-SwiftUI-) | Elegant to-do list application using SwiftUI. | SwiftUI |
 | [Calculator_IOS](https://github.com/Tirth615/Calculator_IOS) | Calculator app with basic math operations and clean UI. | Swift, UIKit |
 | [Crud_Operations](https://github.com/Tirth615/Crud_Operations) | Python program for CRUD operations. | Python |
