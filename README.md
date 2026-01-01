@@ -18,7 +18,7 @@
 - 🌱 Actively exploring **Swift** and **UIKit** to build robust iOS applications.
 - 💬 Ask me about iOS development, Swift, or building CRUD apps!
 - 📫 Reach me at: **shahtirth615@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/16UjmKtBBEJs1wHjZrjs191sPhpKKpcG9/view?usp=sharing)
+- 📄 [View my Resume](https://drive.google.com/file/d/1lB0BUXp4PupAShpcDR9FibMjTykbuJvL/view?usp=sharing)
 - ⚡ Fun fact: **I am Funny 🤪**
 
 ---
